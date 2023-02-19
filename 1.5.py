@@ -4,7 +4,7 @@ import socket
 from concurrent.futures import ThreadPoolExecutor
 from netmiko import ConnectHandler
 
-# 定义设备信息
+# 定义设备信息12
 devices = [
     {
         'device_type': 'huawei',
